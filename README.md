@@ -41,10 +41,10 @@ Docker: Empacotamento e distribuição em containers
 
 !meme: mostra algum meme aletorio do reddit
 
-🌌 APIs Integradas
+ APIs Integradas
 NASA API: Para imagens e dados espaciais
 
-🛠️ Instalação e Uso
+🛠 Instalação e Uso
 Pré-requisitos
 Elixir 1.14+ instalado
 
