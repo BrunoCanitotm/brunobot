@@ -1,0 +1,8 @@
+services:
+  brunobot:
+    build: 
+      context: .
+      args:
+        - DISCORD_TOKEN=${DISCORD_TOKEN}  # Passa a variável como argumento de build
+    env_file: .env
+    restart: unless-stopped
