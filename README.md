@@ -44,7 +44,7 @@ Docker: Empacotamento e distribuição em containers
  APIs Integradas
 NASA API: Para imagens e dados espaciais
 
-🛠 Instalação e Uso
+ Instalação e Uso
 Pré-requisitos
 Elixir 1.14+ instalado
 
